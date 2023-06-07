@@ -1,0 +1,17 @@
+.Consumer {
+ 
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+  }
+  
+  .Vendor {
+   
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #c10a0a;
+    font-size: 100px;
+  }
